@@ -2,7 +2,7 @@
 Simulador Universal de Autômatos Finitos Determinísticos (AFDs) e Não-Determinísticos (AFNs)
 
 ## Exemplo: 
-#### Entrada
+### Entrada
 ```
 3
 2 a b
@@ -27,7 +27,7 @@ a
 aaa
 ```
 
-#### Saída desejada
+### Saída desejada
 ```
 rejeita
 aceita
